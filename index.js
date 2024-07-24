@@ -9,7 +9,3 @@ function change(){
     var audio = new Audio('sounds/'+this.innerHTML+'.mp3');
     audio.play();
 }
-function playsound(){
-    var audio = new Audio('sounds/tom-1.mp3');
-    audio.play();
-}
